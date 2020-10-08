@@ -76,26 +76,38 @@
 .ouridea{
     font-size:30px; 
     color: rgb(255,255,255);
-    font-family: "Helvetica Neue"
+    font-family: "Helvetica Neue";
 }
 
 
 .click{
     color: white;
-    font-family: "Helvetica Neue"
+    font-family: "Helvetica Neue";
 }
 
 .choose{
     color:white;
-     font-family: "Helvetica Neue"
+     font-family: "Helvetica Neue";
 }
 
 .norwegian{
      color:white;
-     font-family: "Helvetica Neue"
+     font-family: "Helvetica Neue";
 }
 
 .english{
      color:white;
-     font-family: "Helvetica Neue"
+     font-family: "Helvetica Neue";
+}
+
+.byaogm{
+    color: rgb(255,255,255);
+    margin-top: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 10px; 
+    
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-size: 15px;
 }

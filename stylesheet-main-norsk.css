@@ -10,8 +10,8 @@
 
 
 .gif1{
-    float: right;
-    margin-right: 100px;
+    float: left;
+    margin-left: 10px;
   
     
 }
@@ -37,15 +37,16 @@
 }
 
 .why2{
-    margin-right: 50%;
-    margin-left: 5px;
+    margin-left: 50%;
+    margin-right: 5px;
    
 }
 
 
 
 .idea1{
-    float: right;
+    float: left;
+    margin-left: 10px;
     width: 45%;
     
 }
@@ -54,8 +55,8 @@
 .fra2til10{
     width: 30%;
     height: 30%;
-    margin-left: 10%;
-    float: left;
+    margin-right: 10%;
+    float: right;
 
 }
 

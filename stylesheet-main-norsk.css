@@ -1,94 +1,112 @@
-.main{
+.title{
+    color: rgb(255,255,255);
     margin-top: 10px;
-    margin-right: 5%;
-    margin-left: 5%;
-    margin-bottom: 10px;  
-   background-color: rgba(121,151, 159,1);
-}
-
-
-
-
-.gif1{
-    float: left;
-    margin-right: 100px;
-    margin-left: 40px;
-    margin-top: 30px;
-   
-}
-
-.gif1bilde{
-    float: left;
-    width: 120%;
-  
-}
-
-
-
-
-.why2{
-   
     margin-right: 5px;
-     float: left;
+    margin-left: 5px;
+    margin-bottom: 10px; 
     
-    
-   width: 45%;
-   
-    
-    margin-left: 40px;
-    
-    
-     margin-bottom: 60px;
-    
-   
-}
-
-
-
-.idea1{
-    float: left;
-    
-    width: 45%;
-     
-     margin-left: 40px;
-     margin-bottom: 60px;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-size: 3vw;
+    border-bottom-style: dashed;
     
 }
 
-
-.fra2til10{
+.why{
     width: 30%;
-    height: 30%;
-    margin-right: 10%;
+    height: 100%;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    color: rgb(255,255,255);
+    margin-left: 5%;
+    border-right-style: dashed;
     float: left;
+    
+}
 
-     margin-left: 150px;
-    margin-right: 20px;
-    margin-top: 40px;
+
+
+.idea{
+   width: 30%;
+    height: 100%;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    color: rgb(255,255,255);
+    margin-left: 5px;
+    border-right-style: dashed;
+    float: left;
+}
+
+
+
+.change{
+    width: 30%;
+    height: 100%;
+    text-align: center;
+    font-family: "Helvetica Neue";
+    font-size: 20px;
+    color: rgb(255,255,255);
+    margin-left: 5px;
+    float: left;
+     
+}
+
+.back{
+     width: 30%;
+    height: 100%;
+    text-align: left;
+    font-family: "Helvetica Neue";
+    font-size: 30px;
+    color: rgb(255,255,255);
+    margin-left: 5px;
+    float: left;
+}
+
+.ideatwo{
+    font-size:20px; 
+    color: rgb(255,255,255);
+    font-family: "Helvetica Neue";
    
+    
+    
 }
 
-.space1{
-     width: 100%;
-    height: 100px;
+.ouridea{
+    font-size:30px; 
+    color: rgb(255,255,255);
+    font-family: "Helvetica Neue";
 }
 
-.space2{
-    width: 100%;
-    height: 100px;
+
+.click{
+    color: white;
+    font-family: "Helvetica Neue";
 }
 
-.space3{
-    width: 100%;
-    height: 150px;
+.choose{
+    color:white;
+     font-family: "Helvetica Neue";
 }
 
-.space4{
-    width: 100%;
-    height: 200px;
+.norwegian{
+     color:white;
+     font-family: "Helvetica Neue";
 }
 
-.space5{
-     width: 100%;
-    height: 200px;
+.english{
+     color:white;
+     font-family: "Helvetica Neue";
+}
+
+
+
+
+.illuastrasjon{
+     color: white;
+    font-family: "Helvetica Neue";
+   margin-left: 150px;
+    margin-top: 30px;
+    float: left;
 }

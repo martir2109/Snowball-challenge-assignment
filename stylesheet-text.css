@@ -53,16 +53,7 @@
      
 }
 
-.back{
-     width: 30%;
-    height: 100%;
-    text-align: left;
-    font-family: "Helvetica Neue";
-    font-size: 30px;
-    color: rgb(255,255,255);
-    margin-left: 5px;
-    float: left;
-}
+
 
 .ideatwo{
     font-size:20px; 
@@ -103,10 +94,4 @@
 
 
 
-.illuastrasjon{
-     color: white;
-    font-family: "Helvetica Neue";
-   margin-left: 150px;
-    margin-top: 30px;
-    float: left;
-}
+

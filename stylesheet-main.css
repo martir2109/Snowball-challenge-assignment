@@ -18,11 +18,11 @@
 }
 
 .gif1bilde{
+    
     float: left;
     width: 120%;
   
 }
-
 
 
 
@@ -33,11 +33,8 @@
     
     
    width: 45%;
-   
-    
+
     margin-left: 40px;
-    
-    
      margin-bottom: 60px;
     
    
@@ -80,7 +77,7 @@
 
 .space3{
     width: 100%;
-    height: 150px;
+    height: 00px;
 }
 
 .space4{
@@ -88,7 +85,26 @@
     height: 200px;
 }
 
-.space5{
-     width: 100%;
-    height: 200px;
+
+
+@media only screen and (max-width: 940px) {
+    .why2{width: 100%; 
+    
+        float: none;
+        
+        margin-left: 15px;
+    }
+    
+    
+}
+
+@media only screen and (max-width: 940px) {
+    .idea1{width: 100%; 
+    
+        float: none;
+        
+        margin-left: 15px;
+    }
+    
+    
 }

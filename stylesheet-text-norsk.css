@@ -7,7 +7,7 @@
     
     text-align: center;
     font-family: "Helvetica Neue";
-    font-size: 30px;
+    font-size: 3vw;
     border-bottom-style: dashed;
     
 }
@@ -100,22 +100,13 @@
      font-family: "Helvetica Neue";
 }
 
-.byaogm{
-    color: rgb(255,255,255);
-    margin-top: 10px;
-    margin-right: 5px;
-    margin-left: 5px;
-    margin-bottom: 10px; 
-    
-    text-align: center;
-    font-family: "Helvetica Neue";
-    font-size: 15px;
-}
+
 
 
 .illuastrasjon{
      color: white;
     font-family: "Helvetica Neue";
-   margin-left: 60%;
+   margin-left: 150px;
+    margin-top: 30px;
     float: left;
 }
